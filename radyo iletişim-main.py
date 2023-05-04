@@ -199,8 +199,3 @@ while True:
         display.set_pixel(gelenX,gelenY,9)"""
 
 
-
-
-
-
-
