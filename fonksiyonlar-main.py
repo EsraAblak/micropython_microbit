@@ -62,13 +62,4 @@ while True:
     if (brightness>0):
         brightness-=1
     sleep(90)
-    
-
-
-
-        
-
-
-
-
 
